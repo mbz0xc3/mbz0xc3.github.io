@@ -14,7 +14,7 @@ Its Shopping day
 
 Telegram alias: @ctgrocerybot
 ```
-![](../../assets/posts/1/1.png)
+![](../assets/posts/1/1.png)
 
 ### Enumeration
 After trying different things. I concluded that it's vulnerable to blind SQLi.
