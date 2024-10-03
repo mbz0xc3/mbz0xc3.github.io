@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: MBZ0xc3
+title: My Blog
 
-tagline: Bug Hunter | SRT Member
+tagline: 
 
 description: >- # used by seo meta and the atom feed
-   Bug Hunter | SRT Member
+   Useless!
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://mbz0xc3.github.io"
